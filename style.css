@@ -55,3 +55,43 @@ body{
     left: 49.25%;
  
 }
+/* =============Media Queries=============== */
+
+/* for tablet */
+@media only  screen and (max-width:768px){
+    .container{
+        min-width: 89%;
+    }
+    .seconds{
+     top:9%;
+    }
+    
+}
+
+/* for redmi */
+@media only screen and (max-width: 468px){
+   .container {
+            height: 41vh;
+         }
+    .hours{
+    height: 21%;
+    top: 29.4%;
+    } 
+    .minitue{
+        height: 29%;
+        top: 21%;
+    }   
+    .seconds{
+        height: 37%;
+        top: 13%;
+    }
+}
+
+/* for smaller */
+@media only  screen and (max-width:325px){
+    .container{
+        min-width: 95%;
+        height: 41vh;
+    }
+    
+}
