@@ -9,5 +9,5 @@ the Analog Watch
 - MD Bootstrap
 - Font Awesome
 ## ##
-**I learnt Date And Timing**\
+**Within this project i learnt about  Date And Timing functions in JS**\
 *You Can check out the [Clock](https://Jagrati1213.github.io/clock)*
