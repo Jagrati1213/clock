@@ -1,5 +1,6 @@
-# clock
-the Analog Watch 
+# clock - JS
+the Analog Watch \
+*You Can check out the [Clock](https://Jagrati1213.github.io/clock)*
 ## Used language ##
 - HTML 
 - CSS
@@ -8,6 +9,10 @@ the Analog Watch
 - Bootstrap
 - MD Bootstrap
 - Font Awesome
-## ##
-**Within this project i learnt about  Date And Timing functions in JS**\
-*You Can check out the [Clock](https://Jagrati1213.github.io/clock)*
+####  ####
+I saw this template from youtube. 
+
+**Within this project i learnt about  Date And Timing functions in JS**
+## Project Video ##
+https://user-images.githubusercontent.com/85276293/194698728-61a0a001-21bf-4e39-afc9-0021b7057e40.mp4
+
